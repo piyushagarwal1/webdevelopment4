@@ -1,0 +1,47 @@
+#ONE{
+  background-color: #D4E4FF;
+  height: 700px;
+}
+#two{
+  margin-top: 350px;
+}
+.P{
+    width: 300px;
+    border: 2px solid #D4E4FF;
+    padding: 100px;
+    margin-left: 150px;
+}
+.Q{
+  width: 300px;
+    border: 2px solid #D4E4FF;
+    padding: 20px;
+    margin-left: 150px;
+}
+.P1{
+  width: 300px;
+    border: 2px solid #D4E4FF;
+    padding: 100px;
+    margin-left: 600px;
+    margin-top: -285px;
+}
+.Q1{
+  width: 300px;
+    border: 2px solid #D4E4FF;
+    padding: 20px;
+    margin-left: 600px;
+    
+}
+.P2{
+  width: 300px;
+    border: 2px solid #D4E4FF;
+    padding: 100px;
+    margin-left: 1050px;
+    margin-top: -285px;
+}
+.Q2{
+  width: 300px;
+    border: 2px solid #D4E4FF;
+    padding: 20px;
+    margin-left: 1050px;
+    
+}
